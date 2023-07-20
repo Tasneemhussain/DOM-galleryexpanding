@@ -13,8 +13,10 @@ body {
   overflow: hidden;
   margin: 0;
   background-image: url('https://cdn.pixabay.com/photo/2020/03/30/18/03/flower-4985011_1280.png');
-  
-  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed; */
 }
 
 .container {
